@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fasansola
-- 👀 I’m interested in Finance, Advertisement and Real Estate Data Analysis, Building Applications and Computational Software
-- 🌱 I’m currently learning Python, SQL and C. And master even more as I go further.
+- 👀 I’m interested in Finance, Advertisement and Real Estate Data Analysis, Building Websites and Applications and Computational Software
+- 🌱 I use HTML, CSS, Python, SQL and C. And master even more as I go further.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
